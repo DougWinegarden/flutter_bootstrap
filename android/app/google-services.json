@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228714254692",
+    "project_id": "flutter-bootstrap-dw",
+    "storage_bucket": "flutter-bootstrap-dw.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228714254692:android:74433391948c893a14ea71",
+        "android_client_info": {
+          "package_name": "com.dougdevs.flutter_bootstrap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkGqQAAtQHfyoXOmBDwam2vHSuMwXbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228714254692:android:bff1257ac718505e14ea71",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bootstrap_dw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkGqQAAtQHfyoXOmBDwam2vHSuMwXbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

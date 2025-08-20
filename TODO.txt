@@ -1,0 +1,30 @@
+future TODO
+future collection/db structure
+
+Twood:
+	ID
+	user
+	text
+
+Comment:
+	ID
+	twood ID
+	user
+	text
+
+Like:
+	twood ID
+	user
+	exists (bool)
+
+
+other additions/notes:
+edit db and add collections
+add like button
+display likes on twoods
+	you cannot like your own twoods- this button should only be available for other's Twoods
+add twood filter for user's liked twoods and 
+add twood filter, showing global best Twoods sorted by total Likes descending
+turn Twood list view filters into dropdown menu on notes.dart
+improve login and register screens by moving UI up or scrolling button with keyboard
+add automated moderation tools to filter bad Twoods
