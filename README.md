@@ -1,16 +1,23 @@
-# flutter_bootstrap
+# Twoodler
 
 A new Flutter project with Firebase Authentication and Firestore Database
 
-## Getting Started
+# Pages
 
-This project is a starting point for a Flutter application.
+-Login Page
+-Registration Page
+-Home Page
+-Profile Page
+-View Twoods Page
 
-A few resources to get you started if this is your first Flutter project:
+# Other Notes And Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Filtered list options to view all Twoods or My Twoods
+Number of Twoods posted by user is visible on Profile Screen
+User can log out, and is redirected to the login page
+on logout, the stack is cleared so the user cannot press 'back' on Android to return to app, while logged out
+Proper error handling for improper email formatting with optimal user experience in mind
+proper error handling for other user auth issues when commiting new records to database
+Twoods may be deleted by the user who posted them
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+see TODO.txt for potential future improvements
